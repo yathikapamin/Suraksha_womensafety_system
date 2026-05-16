@@ -1,0 +1,52 @@
+{
+    "columns": [
+        "Area",
+        "Rape",
+        "Molestation",
+        "Cruelty (498A)",
+        "Dowry",
+        "Total"
+    ],
+    "sample": [
+        {
+            "Area": "Whitefield",
+            "Rape": 15,
+            "Molestation": 120,
+            "Cruelty (498A)": 70,
+            "Dowry": 100,
+            "Total": 305
+        },
+        {
+            "Area": "Electronic City",
+            "Rape": 18,
+            "Molestation": 130,
+            "Cruelty (498A)": 85,
+            "Dowry": 110,
+            "Total": 343
+        },
+        {
+            "Area": "Marathahalli",
+            "Rape": 13,
+            "Molestation": 105,
+            "Cruelty (498A)": 65,
+            "Dowry": 85,
+            "Total": 268
+        },
+        {
+            "Area": "Bellandur",
+            "Rape": 14,
+            "Molestation": 110,
+            "Cruelty (498A)": 70,
+            "Dowry": 90,
+            "Total": 284
+        },
+        {
+            "Area": "ORR",
+            "Rape": 16,
+            "Molestation": 125,
+            "Cruelty (498A)": 80,
+            "Dowry": 105,
+            "Total": 326
+        }
+    ]
+}

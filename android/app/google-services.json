@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242326046756",
+    "project_id": "safenet-ai-61658",
+    "storage_bucket": "safenet-ai-61658.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242326046756:android:c1621061415fdb64d9b0b1",
+        "android_client_info": {
+          "package_name": "com.safenetai.safenet_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewKUuVhaZkyGmfMD0Qje0E5prgqU3BGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

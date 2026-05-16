@@ -1,0 +1,450 @@
+[
+    {
+        "area": "Whitefield",
+        "latitude": 12.9963995,
+        "longitude": 77.7614229,
+        "total_crimes": 305,
+        "risk_level": "High"
+    },
+    {
+        "area": "Electronic City",
+        "latitude": 12.8487599,
+        "longitude": 77.648253,
+        "total_crimes": 343,
+        "risk_level": "High"
+    },
+    {
+        "area": "Marathahalli",
+        "latitude": 12.9552572,
+        "longitude": 77.6984163,
+        "total_crimes": 268,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Bellandur",
+        "latitude": 12.9371445,
+        "longitude": 77.6720227,
+        "total_crimes": 284,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "ORR",
+        "latitude": 13.0354024,
+        "longitude": 77.5413987,
+        "total_crimes": 326,
+        "risk_level": "High"
+    },
+    {
+        "area": "KR Puram",
+        "latitude": 13.007516,
+        "longitude": 77.695935,
+        "total_crimes": 236,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "HSR Layout",
+        "latitude": 12.9116225,
+        "longitude": 77.6388622,
+        "total_crimes": 252,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "BTM Layout",
+        "latitude": 12.9140008,
+        "longitude": 77.6102821,
+        "total_crimes": 294,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Indiranagar",
+        "latitude": 12.9732913,
+        "longitude": 77.6404672,
+        "total_crimes": 247,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Koramangala",
+        "latitude": 12.9357366,
+        "longitude": 77.624081,
+        "total_crimes": 268,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Jayanagar",
+        "latitude": 12.9292731,
+        "longitude": 77.5824229,
+        "total_crimes": 188,
+        "risk_level": "Low"
+    },
+    {
+        "area": "JP Nagar",
+        "latitude": 12.9096941,
+        "longitude": 77.5866067,
+        "total_crimes": 204,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Banashankari",
+        "latitude": 12.9278196,
+        "longitude": 77.556621,
+        "total_crimes": 220,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Basavanagudi",
+        "latitude": 12.9417261,
+        "longitude": 77.5755021,
+        "total_crimes": 172,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Malleshwaram",
+        "latitude": 13.0027353,
+        "longitude": 77.5703253,
+        "total_crimes": 186,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Rajajinagar",
+        "latitude": 13.0005232,
+        "longitude": 77.5496166,
+        "total_crimes": 201,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Yelahanka",
+        "latitude": 13.1006982,
+        "longitude": 77.5963454,
+        "total_crimes": 215,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Hebbal",
+        "latitude": 13.0382184,
+        "longitude": 77.5919,
+        "total_crimes": 184,
+        "risk_level": "Low"
+    },
+    {
+        "area": "RT Nagar",
+        "latitude": 13.0227204,
+        "longitude": 77.595715,
+        "total_crimes": 186,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Vijayanagar",
+        "latitude": 12.9709537,
+        "longitude": 77.5373851,
+        "total_crimes": 204,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Majestic",
+        "latitude": 12.9779079,
+        "longitude": 77.5723936,
+        "total_crimes": 370,
+        "risk_level": "High"
+    },
+    {
+        "area": "Shivajinagar",
+        "latitude": 12.9855286,
+        "longitude": 77.6054496,
+        "total_crimes": 348,
+        "risk_level": "High"
+    },
+    {
+        "area": "City Market",
+        "latitude": 12.965718,
+        "longitude": 77.5762705,
+        "total_crimes": 332,
+        "risk_level": "High"
+    },
+    {
+        "area": "KR Market",
+        "latitude": 12.9645,
+        "longitude": 77.5761889,
+        "total_crimes": 319,
+        "risk_level": "High"
+    },
+    {
+        "area": "Yeshwanthpur",
+        "latitude": 13.0176937,
+        "longitude": 77.5555009,
+        "total_crimes": 284,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Baiyappanahalli",
+        "latitude": 12.9907136,
+        "longitude": 77.6523733,
+        "total_crimes": 268,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Sarjapur",
+        "latitude": 12.9116225,
+        "longitude": 77.6388622,
+        "total_crimes": 247,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Devanahalli",
+        "latitude": 13.2483502,
+        "longitude": 77.7134377,
+        "total_crimes": 173,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Kengeri",
+        "latitude": 12.9176571,
+        "longitude": 77.4837568,
+        "total_crimes": 194,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Nagarbhavi",
+        "latitude": 12.9512353,
+        "longitude": 77.519054,
+        "total_crimes": 215,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Hennur",
+        "latitude": 13.037077,
+        "longitude": 77.6413572,
+        "total_crimes": 231,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Thanisandra",
+        "latitude": 13.0522499,
+        "longitude": 77.6316152,
+        "total_crimes": 247,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Horamavu",
+        "latitude": 13.0273312,
+        "longitude": 77.6601508,
+        "total_crimes": 217,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Kadugodi",
+        "latitude": 12.9957428,
+        "longitude": 77.7579489,
+        "total_crimes": 234,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Domlur",
+        "latitude": 12.9624669,
+        "longitude": 77.6381958,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Ulsoor",
+        "latitude": 12.9778793,
+        "longitude": 77.6246697,
+        "total_crimes": 214,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Frazer Town",
+        "latitude": 12.9975851,
+        "longitude": 77.6136744,
+        "total_crimes": 246,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Cox Town",
+        "latitude": 12.9934859,
+        "longitude": 77.6251081,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Cooke Town",
+        "latitude": 13.0021998,
+        "longitude": 77.6251814,
+        "total_crimes": 212,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Sadashivanagar",
+        "latitude": 13.0110193,
+        "longitude": 77.5808641,
+        "total_crimes": 156,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Sanjay Nagar",
+        "latitude": 12.9578658,
+        "longitude": 77.6958748,
+        "total_crimes": 188,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Dollars Colony",
+        "latitude": 13.0413668,
+        "longitude": 77.5678155,
+        "total_crimes": 140,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Basaveshwar Nagar",
+        "latitude": 12.9728678,
+        "longitude": 77.6094161,
+        "total_crimes": 214,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Chandra Layout",
+        "latitude": 12.955333,
+        "longitude": 77.5238903,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Magadi Road",
+        "latitude": 12.9756527,
+        "longitude": 77.5553548,
+        "total_crimes": 252,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Peenya",
+        "latitude": 13.0330515,
+        "longitude": 77.5332233,
+        "total_crimes": 289,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Jalahalli",
+        "latitude": 13.0394104,
+        "longitude": 77.5197351,
+        "total_crimes": 204,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Vidyaranyapura",
+        "latitude": 13.0766407,
+        "longitude": 77.5577315,
+        "total_crimes": 188,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Sahakar Nagar",
+        "latitude": 13.069641,
+        "longitude": 77.5857251,
+        "total_crimes": 172,
+        "risk_level": "Low"
+    },
+    {
+        "area": "Banaswadi",
+        "latitude": 13.0141618,
+        "longitude": 77.6518539,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Ramamurthy Nagar",
+        "latitude": 13.0120218,
+        "longitude": 77.6777817,
+        "total_crimes": 246,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "CV Raman Nagar",
+        "latitude": 12.9850987,
+        "longitude": 77.6631174,
+        "total_crimes": 212,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Brookefield",
+        "latitude": 12.9652094,
+        "longitude": 77.717936,
+        "total_crimes": 252,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Kundalahalli",
+        "latitude": 12.977594,
+        "longitude": 77.7155586,
+        "total_crimes": 236,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Varthur",
+        "latitude": 12.9406508,
+        "longitude": 77.746988,
+        "total_crimes": 268,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Gunjur",
+        "latitude": 12.9209772,
+        "longitude": 77.7361016,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Bommanahalli",
+        "latitude": 12.9034582,
+        "longitude": 77.6230028,
+        "total_crimes": 289,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Hongasandra",
+        "latitude": 12.8986261,
+        "longitude": 77.6286732,
+        "total_crimes": 252,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Begur",
+        "latitude": 12.8633887,
+        "longitude": 77.6130112,
+        "total_crimes": 236,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Hulimavu",
+        "latitude": 12.8773486,
+        "longitude": 77.6028031,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Arekere",
+        "latitude": 12.8872086,
+        "longitude": 77.5960493,
+        "total_crimes": 214,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Bannerghatta Road",
+        "latitude": 12.9396275,
+        "longitude": 77.6021696,
+        "total_crimes": 268,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Wilson Garden",
+        "latitude": 12.9489339,
+        "longitude": 77.5968273,
+        "total_crimes": 246,
+        "risk_level": "Medium"
+    },
+    {
+        "area": "Richmond Town",
+        "latitude": 12.963555,
+        "longitude": 77.6015856,
+        "total_crimes": 230,
+        "risk_level": "Medium"
+    }
+]
