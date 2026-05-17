@@ -14,20 +14,39 @@ It provides real-time threat detection, location tracking, emergency alerts, and
 ## 🏗️ Architecture
 
 
-┌─────────────────────────────────────────────────────┐
-│ Flutter App │
-│ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌────────┐ │
-│ │ Screens │ │ Widgets │ │Providers │ │Services│ │
-│ └──────────┘ └──────────┘ └──────────┘ └────────┘ │
-│ │
-│ ┌──────── Multi-Agent Pipeline ────────┐ │
-│ │ Detection → Context → Decision → │ │
-│ │ Response → Nearby Responder │ │
-│ └───────────────────────────────────────┘ │
-└─────────────────────────────────────────────────────┘
-│ │ │
-Firebase Twilio SMS Flask ML API
-(Auth/DB/FCM)
+                     ┌──────────────────────────────┐
+                     │        Flutter App           │
+                     │                              │
+                     │  ┌────────────────────────┐  │
+                     │  │       UI Layer         │  │
+                     │  │ Screens / Widgets      │  │
+                     │  └────────────────────────┘  │
+                     │                              │
+                     │  ┌────────────────────────┐  │
+                     │  │   State Management     │  │
+                     │  │     Providers          │  │
+                     │  └────────────────────────┘  │
+                     │                              │
+                     │  ┌────────────────────────┐  │
+                     │  │      Services          │  │
+                     │  │ Auth / Location / SMS  │  │
+                     │  └────────────────────────┘  │
+                     │                              │
+                     │  ┌────────────────────────┐  │
+                     │  │   AI Agent System      │  │
+                     │  │ Detection → Context    │  │
+                     │  │ Decision → Response    │  │
+                     │  │ → Nearby Responder     │  │
+                     │  └────────────────────────┘  │
+                     └──────────────┬───────────────┘
+                                    │
+        ┌───────────────────────────┼───────────────────────────┐
+        │                           │                           │
+┌──────────────┐          ┌──────────────┐          ┌──────────────┐
+│  Firebase    │          │   Twilio     │          │  Flask ML    │
+│ Auth / DB    │          │   SMS API    │          │ Risk Model   │
+│ FCM / Storage│          │              │          │ Prediction   │
+└──────────────┘          └──────────────┘          └──────────────┘
 
 
 ---
