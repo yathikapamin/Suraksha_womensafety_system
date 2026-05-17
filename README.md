@@ -42,11 +42,11 @@ It provides real-time threat detection, location tracking, emergency alerts, and
                                     │
         ┌───────────────────────────┼───────────────────────────┐
         │                           │                           │
-┌──────────────┐          ┌──────────────┐          ┌──────────────┐
-│  Firebase    │          │   Twilio     │          │  Flask ML    │
-│ Auth / DB    │          │   SMS API    │          │ Risk Model   │
-│ FCM / Storage│          │              │          │ Prediction   │
-└──────────────┘          └──────────────┘          └──────────────┘
+┌──────────────┐        ┌──────────────┐        ┌──────────────┐
+│  Firebase     │        │   Twilio     │        │   Flask ML   │
+│ Auth / DB     │        │  SMS API     │        │  Risk Model  │
+│ FCM / Storage │        │              │        │  Prediction  │
+└──────────────┘        └──────────────┘        └──────────────┘
 
 
 ---
